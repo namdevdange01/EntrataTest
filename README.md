@@ -8,17 +8,17 @@ This framework is based in **Page Object Model (POM).**
 
 The framework uses:
 
-1.Java
-2.Selenium
-3.TestNG
-4.Maven
-5.ExtentReport
+1. Java
+2. Selenium
+3. TestNG
+4. ExtentReport
 
 Steps to create test cases:
-Let's say we want to automate HomePage test.
-```
-1.Create HomePage in pages package.
-```
+----
+Let's say we want to automate HomePage test.  
+
+1.Create Homepage in **pages** package. 
+
 A page class typically should contain all the elements that are present on the page and corresponding action methods.
 ```
 public class HomePage extends TestBase {
@@ -91,14 +91,17 @@ public class HomePageTest extends TestBase{
 
   ```      
 4.Execute the test cases run testng.xml file
-```
+
+
 
 ---
 
 Reproting
 ---
+
 The framework gives report in 
 1. A html report - Which is generated using extent reports, under the folder `test-output/Extent.html`.
+---
 
 Screenshot:
 ---------------
