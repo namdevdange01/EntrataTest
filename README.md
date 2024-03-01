@@ -1,4 +1,4 @@
-selenium-testng-framework
+Selenium-TestNG-Framework
 ---
 
 ---
