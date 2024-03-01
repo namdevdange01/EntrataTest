@@ -114,4 +114,8 @@ Screenshot:
 ---------------
 *	Most of the time we think to Capture Screenshot in WebDriver when some kind of error or exception surfaces while practicing testing, to resolve the same the framework has a method. 
 *	getScreenshot() is used to indicates driver to capture a screenshot and store it in //screenshot directory.
+  
+![Screenshot (4)](https://github.com/namdevdange01/EntrataTest/assets/161715791/df296988-e35b-4ba0-bc88-9cfebdbfec6a)
+
+![Screenshot (5)](https://github.com/namdevdange01/EntrataTest/assets/161715791/0e087ff9-5dc0-4447-ab4b-661a9a8ed9c1)
 
