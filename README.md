@@ -99,9 +99,16 @@ public class HomePageTest extends TestBase{
 Reproting
 ---
 
-The framework gives report in 
-1. A html report - Which is generated using extent reports, under the folder `test-output/Extent.html`.
----
+The framework gives report in
+
+1.Extent reporting : After the test finishes, a visual report is generated for all the executed test cases from the suite. This report can be found in the `test-output/Extent.html.
+
+![Screenshot (1)](https://github.com/namdevdange01/EntrataTest/assets/161715791/1d384c24-b01d-49ce-810f-754040db0b80)
+
+![Screenshot (2)](https://github.com/namdevdange01/EntrataTest/assets/161715791/0dc0cd23-2aa7-44d7-a68e-251c57629fb0)
+
+![Screenshot (3)](https://github.com/namdevdange01/EntrataTest/assets/161715791/1081a55c-4f97-47be-b043-924e219e493b)
+
 
 Screenshot:
 ---------------
